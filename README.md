@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pavan Teja
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI/ML+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI/ML+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -37,6 +37,21 @@
 <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212282100-1b747a9c-244d-44fe-b1f6-57bce259bf81.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212281754-3320677a-ce06-4015-b0af-d055718db875.gif" width="100">
 
 </div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PavanS219&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PavanS219&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavanS219&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
 
 ## 🔥 Featured Projects
 
@@ -77,9 +92,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavanS219&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-
-</div>
-
 ## 🌟 Achievements & Certifications
 
 <div align="center">
@@ -92,8 +104,6 @@
 - 🤖 **Machine Learning** - Theory + Lab
 - 🔧 **Problem Solving & Adaptability** Expert
 
-
-</div>
 
 ## 💭 Random Dev Quote
 
