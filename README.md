@@ -50,17 +50,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavanS219&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
   **Thanks for visiting! Let's build something amazing together! 🚀**
   
 <div align="center">
