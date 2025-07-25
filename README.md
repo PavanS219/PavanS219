@@ -44,14 +44,3 @@
 - 🌐 **Web Development**: Creating responsive, interactive user experiences
 
 <br clear="both"/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavanS219&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-  **Thanks for visiting! Let's build something amazing together! 🚀**
-  
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
